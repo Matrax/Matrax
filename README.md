@@ -4,6 +4,7 @@
   - I love to use different programming language and I like to develop "tools" that make the life of developers easier.
 
 🔭 I'm currenlty working on :
+  - A glsl shader viewer with Qt and OpenGL 4.6 : https://github.com/Matrax/QuickGLSL
   - a french CMS using PHP and JS : https://github.com/Matrax/VitrineCMS
   - a C++ program that generate your makefile for C/C++ project : https://github.com/Matrax/MakeLoader
 
