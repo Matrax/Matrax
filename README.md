@@ -6,7 +6,7 @@
 🔭 I'm currenlty working on :
   - A glsl shader viewer with Qt and OpenGL 4.6 : https://github.com/Matrax/QuickGLSL
   - a french CMS using PHP and JS : https://github.com/Matrax/VitrineCMS
-  - a C++ program that generate your makefile for C/C++ project : https://github.com/Matrax/MakeLoader
+  - a C++ program that generate your makefile for C/C++ project using GCC : https://github.com/Matrax/MakeLoader
 
 🌱 I’m currently learning 3D game programming using C++ and OpenGL.
   - My goal is to create a game engine and make games with it.
